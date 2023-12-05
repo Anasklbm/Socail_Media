@@ -1,6 +1,6 @@
 <!-- Social Media Project Banner -->
 <p align="center">
-  <img src="[social-media-banner.png](https://static.vecteezy.com/system/resources/previews/002/006/840/non_2x/social-media-logo-collection-free-design-editable-resizable-eps-10-free-vector.jpg)" alt="Social Media Project" width="600"/>
+  <img src="social-media-banner.png" alt="Social Media Project" width="600"/>
 </p>
 
 # Social Media Project
@@ -42,21 +42,21 @@ A comprehensive social media platform developed using the MERN stack, offering a
 ## 💻 Technologies Used
 
 ### Backend
-- **MongoDB**: NoSQL database for user data, posts, and other information.
-- **Express.js**: Backend web application framework for handling HTTP requests and routes.
-- **Node.js**: JavaScript runtime environment for server-side development.
-- **Express-session**: Middleware for handling user sessions.
-- **Helmet**: Middleware to enhance Express app security by setting various HTTP headers.
-- **Nodemailer**: Module for sending emails to users, e.g., for password reset functionality.
-- **Bcrypt**: Library for hashing and salting passwords to enhance security.
-- **Socket.io**: Library for real-time, bidirectional, and event-based communication.
+- **MongoDB**: 📁 NoSQL database for user data, posts, and other information.
+- **Express.js**: 🚀 Backend web application framework for handling HTTP requests and routes.
+- **Node.js**: 🚀 JavaScript runtime environment for server-side development.
+- **Express-session**: 🔐 Middleware for handling user sessions.
+- **Helmet**: 🛡️ Middleware to enhance Express app security by setting various HTTP headers.
+- **Nodemailer**: 📬 Module for sending emails to users, e.g., for password reset functionality.
+- **Bcrypt**: 🔒 Library for hashing and salting passwords to enhance security.
+- **Socket.io**: 🚀 Library for real-time, bidirectional, and event-based communication.
 
 ### Frontend
-- **React**: JavaScript library for building dynamic and responsive user interfaces.
-- **React Bootstrap**: Popular front-end framework for creating a visually appealing UI.
-- **Axios**: Promise-based HTTP client for making API requests.
-- **Fuse.js**: Fuzzy-search library for efficient and flexible searching.
-- **React Icons**: Collection of customizable SVG icons for React applications.
+- **React**: ⚛️ JavaScript library for building dynamic and responsive user interfaces.
+- **React Bootstrap**: 🚀 Popular front-end framework for creating a visually appealing UI.
+- **Axios**: 🚀 Promise-based HTTP client for making API requests.
+- **Fuse.js**: 🔍 Fuzzy-search library for efficient and flexible searching.
+- **React Icons**: 🔧 Collection of customizable SVG icons for React applications.
 
 ## 📖 Usage
 
