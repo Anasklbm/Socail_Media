@@ -1,6 +1,6 @@
 <!-- Social Media Project Banner -->
 <p align="center">
-  <img src="social-media-banner.png" alt="Social Media Project" width="600"/>
+  <img src="[social-media-banner.png](https://static.vecteezy.com/system/resources/previews/002/006/840/non_2x/social-media-logo-collection-free-design-editable-resizable-eps-10-free-vector.jpg)" alt="Social Media Project" width="600"/>
 </p>
 
 # Social Media Project
