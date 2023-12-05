@@ -18,61 +18,47 @@ A comprehensive social media platform developed using the MERN stack, offering a
 - [Contributing](#contributing)
 - [License](#license)
 
+---
+
 ## Features
 
 ### User Authentication
 
-Users can:
-
-- Login using email
-- Logout
-- Recover forgotten passwords
+- **Login**: Users can log in using their email.
+- **Logout**: Users can log out.
+- **Password Recovery**: Users can recover forgotten passwords.
 
 ### Post Management
 
-Users can:
-
-- Upload posts
-- View posts
-- Like posts
-- Comment on posts
-- Share posts
-- View like and comment counts
-- Delete their own posts
+- **Upload Posts**: Users can upload posts.
+- **View Posts**: Users can view posts.
+- **Interact with Posts**: Users can like, comment, and share posts.
+- **View Counts**: Users can see the count of likes and comments.
+- **Delete Posts**: Users can delete their own posts.
 
 ### User Profiles
 
-Users can:
-
-- View their profiles
-- Edit their profiles
-- See following and followers lists
-- Search for other users
-- View other users' profiles
-- View other users' posts
-- Follow and unfollow other users
-- Search for other users
+- **View/Edit Profiles**: Users can view and edit their profiles.
+- **Following/Followers Lists**: Users can see their following and followers lists.
+- **Search Users**: Users can search for other users.
+- **View Others' Profiles/Posts**: Users can view other users' profiles and posts.
+- **Follow/Unfollow**: Users can follow and unfollow other users.
 
 ### Administrative Functionalities
 
-Admins can:
-
-- Login and logout
-- View all user lists
-- Search for users
-- View each user's profile
-- View each user's posts
-- Delete posts and user
+- **Login/Logout**: Admins can log in and log out.
+- **User Management**: Admins can view all users, search for users, and view each user's profile and posts.
+- **Post Deletion**: Admins can delete posts and users.
 
 ### Real-Time Features
 
-- Real-time updates for likes and comments using **Socket.io**
+- **Socket.io Integration**: Real-time updates for likes and comments.
 
 ### Additional User Interaction
 
-Users can:
+- **Share Posts with URL**: Users can share posts with a URL to non-logged-in users.
 
-- Share posts with a URL to non-logged-in users
+---
 
 ## Technologies Used
 
@@ -95,10 +81,12 @@ Users can:
 - **Fuse.js**: Fuzzy-search library for efficient and flexible searching.
 - **React Icons**: Collection of customizable SVG icons for React applications.
 
+---
+
 ## Usage
 
-1. Clone the repository:
+1. **Clone the repository:**
 
-```bash
-git clone https://github.com/your-username/social-media-project.git
-cd social-media-project
+   ```bash
+   git clone https://github.com/your-username/social-media-project.git
+   cd social-media-project
