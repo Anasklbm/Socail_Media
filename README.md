@@ -4,7 +4,7 @@
 
 A comprehensive social media platform developed using the MERN stack, offering a range of features for users and administrators.
 
-## Table of Contents
+## 📌 Table of Contents
 - [Features](#features)
   - [User Authentication](#user-authentication)
   - [Post Management](#post-management)
