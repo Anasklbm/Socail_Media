@@ -1,7 +1,5 @@
 <!-- Social Media Project Banner -->
-<p align="center">
-  <img src="social-media-banner.png" alt="Social Media Project" width="600"/>
-</p>
+
 
 # Social Media Project
 
