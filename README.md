@@ -1,30 +1,13 @@
-<!-- Header Section -->
+<!-- Social Media Project Banner -->
 <p align="center">
-  <img src="social-media-logo.png" alt="Social Media Logo" width="120"/>
-</p>
-<h1 align="center">Social Media Project</h1>
-<p align="center">
-  A full-fledged social media platform developed using MERN stack, featuring user authentication, post management, user profiles, and administrative functionalities.
+  <img src="social-media-banner.png" alt="Social Media Project" width="600"/>
 </p>
 
-<!-- Table of Contents -->
-## Table of Contents
-- [Features](#features)
-  - [User Authentication](#user-authentication)
-  - [Post Management](#post-management)
-  - [User Profiles](#user-profiles)
-  - [Administrative Functionalities](#administrative-functionalities)
-  - [Real-Time Features](#real-time-features)
-- [Technologies Used](#technologies-used)
-  - [Backend](#backend)
-  - [Frontend](#frontend)
-- [Usage](#usage)
-- [Installation](#installation)
-- [Contributing](#contributing)
-- [License](#license)
+# Social Media Project
 
-<!-- Features Section -->
-## Features
+A comprehensive social media platform developed using the MERN stack, offering a range of features for users and administrators.
+
+## 🚀 Features
 
 ### User Authentication
 - 🔐 **Login**: Users can log in using their email.
@@ -56,8 +39,7 @@
 ### 🌐 Additional User Interaction
 - Users can share posts with a URL to non-logged-in users.
 
-<!-- Technologies Used Section -->
-## Technologies Used
+## 💻 Technologies Used
 
 ### Backend
 - **MongoDB**: NoSQL database for user data, posts, and other information.
@@ -76,8 +58,7 @@
 - **Fuse.js**: Fuzzy-search library for efficient and flexible searching.
 - **React Icons**: Collection of customizable SVG icons for React applications.
 
-<!-- Usage Section -->
-## Usage
+## 📖 Usage
 
 1. **Clone the repository:**
    ```bash
