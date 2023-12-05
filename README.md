@@ -62,29 +62,3 @@ A comprehensive social media platform developed using the MERN stack, offering a
    ```bash
    git clone https://github.com/your-username/social-media-project.git
    cd social-media-project
-
-   Install server dependencies:
-   cd server
-   npm install
-   
-   Install client dependencies:
-   cd ../client
-   npm install
-   
-2.**Run the Application:**
-   ```bash
-   # Run the server
-   cd server
-   npm start
-   
-   # Run the client
-   cd ../client
-   npm start
-   
-
-
-
-
-
-
-   
