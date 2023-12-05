@@ -1,21 +1,20 @@
 <!-- Social Media Project Banner -->
 
-
 # Social Media Project
 
 A comprehensive social media platform developed using the MERN stack, offering a range of features for users and administrators.
 
 ## Table of Contents
-- [Features](#-features)
+- [Features](#features)
   - [User Authentication](#user-authentication)
   - [Post Management](#post-management)
   - [User Profiles](#user-profiles)
   - [Administrative Functionalities](#administrative-functionalities)
   - [Real-Time Features](#real-time-features)
-- [Technologies Used](#-technologies-used)
+- [Technologies Used](#technologies-used)
   - [Backend](#backend)
   - [Frontend](#frontend)
-- [Usage](#-usage)
+- [Usage](#usage)
   - [Clone the repository](#1-clone-the-repository)
   - [Install server dependencies](#2-install-server-dependencies)
   - [Install client dependencies](#3-install-client-dependencies)
@@ -23,9 +22,9 @@ A comprehensive social media platform developed using the MERN stack, offering a
   - [User Interaction](#5-user-interaction)
   - [Additional Administrative Functionality](#6-additional-administrative-functionality)
   - [Real-Time Features](#7-real-time-features)
-- [Installation](#-installation)
-- [Contributing](#-contributing)
-- [License](#-license)
+- [Installation](#installation)
+- [Contributing](#contributing)
+- [License](#license)
 
 ## 🚀 Features
 
