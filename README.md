@@ -46,11 +46,12 @@ Users can:
 
 - View their profiles
 - Edit their profiles
+- See following and followers lists
+- Search for other users
 - View other users' profiles
 - View other users' posts
 - Follow and unfollow other users
 - Search for other users
-- See following and followers lists
 
 ### Administrative Functionalities
 
@@ -58,10 +59,10 @@ Admins can:
 
 - Login and logout
 - View all user lists
+- Search for users
 - View each user's profile
 - View each user's posts
-- Delete posts
-- Search for users
+- Delete posts and user
 
 ### Real-Time Features
 
