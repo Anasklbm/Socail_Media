@@ -4,7 +4,7 @@
 
 A comprehensive social media platform developed using the MERN stack, offering a range of features for users and administrators.
 
-## 🌐 [Live Demo](https://drive.google.com/file/d/120RjQ0iaMusw6nK2I70YS8H1VOkoYoyq/view?usp=sharing)
+## 🌐 [Live Demo](https://drive.google.com/file/d/1OkwS70aM5YOkW1dZkIOVYCkX1D9IHrs8/view)
 
 ## 📌 Table of Contents
 - [Features](#features)
